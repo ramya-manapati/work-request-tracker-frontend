@@ -22,7 +22,7 @@ Open http://localhost:3000 in your browser.
 
 - `npm start` - start the development server
 - `npm run build` - build the app for production
-- `npm test` - run tests
+
 
 ## Notes
 
