@@ -1,20 +1,35 @@
-# Getting Started with Create React App
+﻿# Work Request Tracker Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple React frontend for tracking work requests, updating status, and adding notes.
+
+## Setup
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
+
+```bash
+npm start
+```
+
+Open http://localhost:3000 in your browser.
 
 ## Available Scripts
 
-In the project directory, you can run:
+- `npm start` - start the development server
+- `npm run build` - build the app for production
+- `npm test` - run tests
 
-### `npm start`
+## Notes
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- This app uses `axios` to communicate with a backend API.
+- Make sure the backend server is running and accessible before using the app.
+- The frontend includes support for work request creation, status updates, and notes.
 
+## Repository
 
-
-
-
-
-
-
+https://github.com/ramya-manapati/work-request-tracker-frontend
